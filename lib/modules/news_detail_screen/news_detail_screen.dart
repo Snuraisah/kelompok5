@@ -3,11 +3,11 @@ import 'package:flutter/material.dart';
 import '../../models/news.dart';
 
 class NewsDetailScreen extends StatefulWidget {
-  NewsDetailScreen({
+  const NewsDetailScreen({
     super.key,
-    this.news,
+    required this.news,
   });
-  News? news;
+  final News news;
 
   @override
   State<NewsDetailScreen> createState() => _NewsDetailScreenState();
@@ -23,7 +23,7 @@ class _NewsDetailScreenState extends State<NewsDetailScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.red,
+        backgroundColor: Colors.blueGrey,
         title: const Text(
           "News Detail",
         ),
@@ -37,7 +37,7 @@ class _NewsDetailScreenState extends State<NewsDetailScreen> {
               AspectRatio(
                 aspectRatio: 16 / 9,
                 child: Image.network(
-                  widget.news!.image!,
+                  widget.news.image!,
                   fit: BoxFit.cover,
                 ),
               ),
@@ -53,7 +53,7 @@ class _NewsDetailScreenState extends State<NewsDetailScreen> {
                     ),
                     // ignore: prefer_const_constructors
                     Text(
-                      widget.news!.title!,
+                      widget.news.title!,
                       // ignore: prefer_const_constructors
                       style: TextStyle(
                         fontSize: 28,
@@ -64,7 +64,7 @@ class _NewsDetailScreenState extends State<NewsDetailScreen> {
                       height: 10,
                     ),
                     Text(
-                      widget.news!.content!,
+                      widget.news.content!,
                       textAlign: TextAlign.justify,
                     ),
                     const SizedBox(

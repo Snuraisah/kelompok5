@@ -16,27 +16,28 @@ List<News> newsList = [
   News(
     id: 1,
     title:
-        "PDIP Sebut Megawati Masih Olah dan Laku Batin Sebelum Umumkan Capres 2024",
+        "8 Potret Asila Maisa Anak Ramzi yang Viral Dinyinyir Karena Gaya Nyanyinya",
     image:
-        "https://awsimages.detik.net.id/visual/2022/06/21/megawati-di-rakernas-ii-pdi-perjuangan-desa-kuat-indonesia-maju-dan-berdaulat-21-juni-2022-15_169.png?w=650",
+        "https://akcdn.detik.net.id/community/media/visual/2023/05/02/asila-maisa-7.png?w=770&q=90",
     content:
-        "Ketua DPP Partai Demokrasi Indonesia Perjuangan (PDIP) Said Abdullah mengatakan Ketua Umum Megawati Soekarnoputri masih melakukan olah batin dan laku batin sebelum menjatuhkan pilihannya pada sosok calon presiden maupun calon wakil presiden yang akan diusung pada 2024. Dia menjelaskan, Megawati selalu mencermati dinamika politik dalam kesehariannya.",
+        "Anak aktor Ramzi, Asila Maisa belakangan tengah jadi sorotan karena gaya bernanyinya yang dianggap netizen terlalu berlebihan.",
   ),
   News(
     id: 2,
-    title: "Wacana Penundaan Pemilu 2024 Ditolak Sejumlah Partai",
+    title: "Beli Makanan Online, Pesanan Wanita Ini Malah Dimakan Oleh Driver",
     image:
-        "https://awsimages.detik.net.id/community/media/visual/2023/04/13/ke-pasar-minggu-jokowi-bagi-bagi-uang-dan-sembako-6_169.jpeg?w=700&q=90",
+        "https://akcdn.detik.net.id/community/media/visual/2023/05/02/beli-makanan-online-pesanan-wanita-ini-malah-dimakan-oleh-driver.jpeg?w=700&q=90",
     content:
-        "Wacana penundaan Pemilu 2024 kembali bergulir saat Menteri Investasi Bahlil Lahadalia tiba-tiba menyampaikan adanya usulan pengusaha untuk penundaan Pemilu 2024, pada 11 Januari 2022. Pada 23 Februari, giliran Ketua Umum Partai Kebangkitan Bangsa (PKB) Muhaimin Iskandar yang menyampaikan usulan yang sama setelah bertemu pengusaha karena alasan stagnasi ekonomi.",
+        "Aplikasi makanan digunakan banyak orang untuk memesan makanan dari rumah. Tapi ada banyak kejadian tak terduga, seperti makanan yang disantap oleh driver atau kurir makanan.",
   ),
   News(
     id: 3,
     title:
-        "Kasus Sabu Ditukar Tawas, Teddy Minahasa Anggap Penjebakan Anita Cepu Sah Dilakukan",
-    image: "https://cdn.antaranews.com/cache/800x533/2023/01/11/11.jpg",
+        "Pendaftarannya Sudah Dibuka, Ini 26 Bakal Calon Anggota DPD DKI Jakarta",
+    image:
+        "https://asset.kompas.com/crops/xgF35I-371Mtj5L9Dm2VZxGkVBc=/98x0:683x390/1200x800/data/photo/2015/11/26/1220342012-fot01318780x390.JPG",
     content:
-        "Inspektur Jenderal Teddy Minahasa Putra berkukuh rencana operasi untuk menjebak Linda Pujiastuti alias Anita Cepu sah dilakukan. Operasi ini berujung pada kasus sabu ditukar tawas dengan Teddy berstatus sebagai terdakwa peredaran narkoba.",
+        "Komisi Pemilihan Umum (KPU) menetapkan 26 orang sebagai bakal calon anggota Dewan Perwakilan Daerah (DPD) DKI Jakarta. Penetapan 26 orang itu tercantum dalam Keputusan KPU Nomor 285 Tahun 2023 tentang Penetapan Bakal Calon Anggota DPD DKI Jakarta yang Memenuhi Persyaratan Dukungan Minimal Pemilih dan Sebaran dalam Pemilihan Umum (Pemilu) 2024.",
   ),
   News(
     id: 4,
@@ -49,10 +50,11 @@ List<News> newsList = [
   ),
   News(
     id: 5,
-    title: "Piala Dunia U-20 Batal Salah Ganjar?",
-    image: "https://cdn.antaranews.com/cache/800x533/2022/10/31/ganjar-2.jpg",
+    title: "Jokowi Akan Nyatakan 39 Eksil 1965 Bukan Pengkhianat Negara",
+    image:
+        "https://akcdn.detik.net.id/visual/2019/11/15/9390d907-f3f0-4ce6-93f4-181c9bb22b5f_169.jpeg?w=650&q=90",
     content:
-        "Gubernur Jawa Tengah Ganjar Pranowo menjadi sorotan menyusul pembatalan Piala Dunia U-20 Indonesia oleh FIFA pada 29 Maret 2023. Pasalnya, tak sedikit yang menganggap pernyataan Ganjar mengenai perlunya langkah terobosan Piala Dunia U-20 tanpa Israel menjadi alasan di balik keputusan FIFA kali ini.",
+        "Presiden Joko Widodo akan menyatakan 39 orang warga negara Indonesia (WNI) yang menjadi eksil imbas peristiwa gerakan 30 September Partai Komunis Indonesia (PKI) atau G30S 1965 bukan pengkhianat negara.",
   ),
   News(
     id: 6,
@@ -66,20 +68,20 @@ List<News> newsList = [
   News(
     id: 7,
     title:
-        "Dilaporkan ke Polisi karena Kritik Lampung, TikToker Awbimax Sempat Minta Perlindungan ke Australia",
+        "Infografis Cuaca Panas dan Potensi El Nino Agustus 2023 di Indonesia",
     image:
-        "https://akcdn.detik.net.id/visual/2023/04/13/viral-di-medsos-tiktoker-awbimax-kritik-lampung-berujung-dilaporkan-ke-polisi-ingin-ajukan-perlindungan-ke-australia_169.png?w=700&q=90",
+        "https://cdn0-production-images-kly.akamaized.net/whTdiiWgh2AYFMr5kso0ID4fGV4=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4409381/original/028573300_1682682518-Banner_Infografis_Cuaca_Panas_dan_Potensi_El_Nino_Agustus_2023_di_Indonesia.jpg",
     content:
-        "Seorang content creator di TikTok bernama Awbimax jadi viral di media sosial. Baru-baru ini, ia mengunggah sebuah video yang berisikan kritikan terhadap daerah kelahirannya, yaitu Lampung. ",
+        "Suhu atau cuaca panas melanda Indonesia dalam beberapa hari terakhir. Perhatian publik pun tertuju pada gelombang panas yang saat ini menerjang banyak negara di Asia Selatan seperti di India Cuaca panas memang terjadi di Indonesia. Namun, Badan Meteorologi, Klimatologi, dan Geofisika atau BMKG menjelaskan cuaca panas dan gelombang panas alias heatwave merupakan dua hal berbeda. ",
   ),
   News(
     id: 8,
     title:
-        "Siap Jadi Motor Koalisi Besar, PDIP Sebut Puan Maharani yang Lakukan Safari Politik Pertama Kali",
+        "Syarat Membuat SKCK 2023, Biaya, dan Langkah-langkahnya Melalui Aplikasi Presisi POLRI",
     image:
-        "https://media.suara.com/pictures/653x366/2023/01/13/24903-puan-maharani-menangis-tangkapan-layarkompas-tv.jpg",
+        "https://cdn1-production-images-kly.akamaized.net/0zvfAvUakjhz8_jqwUZGIz918Qw=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2230216/original/019221100_1527497348-20180514120828-1-surat-skck-001-febrianti-diah-kusumaningrum.jpg",
     content:
-        "Ketua DPP Partai Demokrasi Indonesia Perjuangan atau PDIP Said Abdullah mengatakan Puan Maharani merupakan pelopor safari politik pertama kali. Dia menjelaskan, Puan sudah melakukan safari demi menjalin kerja sama politik alias koalisi jelang Pemilihan Umum atau Pemilu 2024.",
+        "Syarat membuat SKCK perlu dikenali setiap orang sebelum mengurusnya. SKCK biasanya diurus sebagai salah satu syarat untuk melamar pekerjaan, beasiswa atau pendidikan, visa, hingga pencalonan kepala daerah. SKCK adalah surat yang berkaitan dengan bukti catatan kepolisian seseorang.",
   ),
   News(
     id: 9,
@@ -91,11 +93,11 @@ List<News> newsList = [
   ),
   News(
     id: 10,
-    title: "Diduga Korupsi Rp1 Miliar, Kades di Mojokerto Ditahan Kejaksaan",
+    title: "Startup Mahasiswa Asal Bekasi Sukses Tembus Pasar IT di Rusia",
     image:
-        "https://akcdn.detik.net.id/community/media/visual/2023/04/13/kades-lolawang-dijemput-paksa-kejari-mojokerto-1_169.jpeg?w=700&q=90",
+        "https://cdn1-production-images-kly.akamaized.net/9qxv7tDg6oac_nEfnqG0gvMW920=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4412685/original/054136900_1683021644-FOTO.jpg",
     content:
-        "Kejaksaan Negeri (Kejari) Mojokerto akhirnya menjemput paksa Sugiharto, Kepala Desa (Kades) Lolawang, Kecamatan Ngoro, Mojokerto, Kamis 13 April 2023. Upaya penjemput paksa dilakukan setelah berulang kali mangkir dari panggilan. Kades yang diduga kuat telah melakukan tindak pidana korupsi pengelolaan keuangan desa tersebut langsung digelandang ke kantor Kejari Kabupaten Mojokerto, untuk dilakukan pemeriksaan.",
+        "Perusahaan rintisan alias startup berbasis software house yang berisikan para pelajar mahasiswa Indonesia yang berhasil menembus pasar industri teknologi di Rusia.",
   ),
 ];
 
@@ -111,12 +113,11 @@ List<News> hotNewsList = [
   ),
   News(
     id: 12,
-    title:
-        "PDIP Sebut Megawati Masih Olah dan Laku Batin Sebelum Umumkan Capres 2024",
+    title: "Hari Pendidikan Nasional, Ini 3 Keutamaan Belajar dalam Islam",
     image:
-        "https://awsimages.detik.net.id/visual/2022/06/21/megawati-di-rakernas-ii-pdi-perjuangan-desa-kuat-indonesia-maju-dan-berdaulat-21-juni-2022-15_169.png?w=650",
+        "https://cdn1-production-images-kly.akamaized.net/guAR7YzPpyp5AN89BZwob90Tsa8=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3468809/original/097008800_1622425982-children-602967_1280_Fotor.jpg",
     content:
-        "Ketua DPP Partai Demokrasi Indonesia Perjuangan (PDIP) Said Abdullah mengatakan Ketua Umum Megawati Soekarnoputri masih melakukan olah batin dan laku batin sebelum menjatuhkan pilihannya pada sosok calon presiden maupun calon wakil presiden yang akan diusung pada 2024. Dia menjelaskan, Megawati selalu mencermati dinamika politik dalam kesehariannya.",
+        "Tanggal tersebut dipilih berdasarkan hari kelahiran Ki Hadjar Dewantara selaku Bapak Pendidikan Nasional. Ki Hadjar Dewantara merupakan tokoh yang sangat konsern terhadap pendidikan anak bangsa.",
   ),
   News(
     id: 13,
