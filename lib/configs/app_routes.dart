@@ -41,12 +41,12 @@ class AppRoutes {
     } else {
       user = User(
         id: 002,
-        name: "Permata",
-        username: "permata",
-        email: "permata@email.com",
+        name: "siti nadya",
+        username: "mahasiswa",
+        email: "dou@email.com",
         profilePhoto:
-            "https://i.pinimg.com/originals/06/87/a8/0687a8ac12eee878f87ddfa8f0cc66d8.jpg",
-        phoneNumber: "085111123456",
+            "https://tse2.mm.bing.net/th?id=OIP.l7tWyXNWDIOx99FGng3cNwAAAA&pid=Api&P=0",
+        phoneNumber: "0838699087",
       );
     }
     return const MaterialPage(

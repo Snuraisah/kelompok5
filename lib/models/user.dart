@@ -29,12 +29,12 @@ class User {
   factory User.dummy() {
     return User(
       id: 001,
-      name: "Ilham Ahmad Putra Aziz Eden",
-      username: "iapa",
-      email: "iapa@email.com",
+      name: "kelompok05",
+      username: "kelompokajja",
+      email: "clompoct@email.com",
       profilePhoto:
-          "https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/jawapos/2019/01/menang-pilkada-bandung-barat-hengky-kurniawan-bentuk-tim-transisi_m_226841.jpg",
-      phoneNumber: "085123456789",
+          "https://tse4.mm.bing.net/th?id=OIP.vW3d53He57bME6SNuqKxQgHaHa&pid=Api&P=0",
+      phoneNumber: "083862179730",
     );
   }
 }
