@@ -29,12 +29,12 @@ class User {
   factory User.dummy() {
     return User(
       id: 001,
-      name: "kelompok05",
+      name: "kelompok 05",
       username: "kelompokajja",
-      email: "clompoct@email.com",
+      email: "kelompok05@email.com",
       profilePhoto:
           "https://tse4.mm.bing.net/th?id=OIP.vW3d53He57bME6SNuqKxQgHaHa&pid=Api&P=0",
-      phoneNumber: "083862179730",
+      phoneNumber: "083196226763",
     );
   }
 }
